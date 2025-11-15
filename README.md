@@ -9,15 +9,6 @@ Real-time gesture detection for Up, Down, Left, Right
 Smooth gameplay built with Pygame
 Modular code with separate files for game logic and gesture control
 
-**📂 Project Structure**
-/project-folder
-│
-├── game_manager.py        # Main file connecting gesture controller + snake game
-├── gesture_controller.py  # Handles webcam input and gesture detection
-├── snake_core.py          # Snake game logic using pygame
-├── requirements.txt       # Required dependencies
-└── assets/                # Images, sounds (optional)
-
 **🛠️ Technologies Used**
 Python
 OpenCV
